@@ -57,6 +57,6 @@ Publication
 [USENIX ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
 
-[AAAI’21] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
+[AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
 *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
 
