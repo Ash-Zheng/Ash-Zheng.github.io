@@ -18,12 +18,16 @@ author_profile: true
 
 [SC'2022] **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding.
 *EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
+[<a href="https://drive.google.com/file/d/1N1bOcq64fJctsVdcV80N8On3Q1h_BuyG/view?usp=sharing">Link</a>]
 
-[Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding
+[Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
+[<a href="https://arxiv.org/abs/2206.08482">Link</a>]
 
 [USENIX ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
+[<a href="https://www.usenix.org/system/files/atc22-feng.pdf">Link</a>]
 
 [AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
 *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
+[<a href="https://arxiv.org/abs/2009.10235">Link</a>]
