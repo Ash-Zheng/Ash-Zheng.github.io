@@ -16,9 +16,13 @@ author_profile: true
 {% endfor %} -->
 
 
+[ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
+*ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*
+[To be appeared]
+
 [SC'2022] **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding.
 *EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
-[<a href="https://drive.google.com/file/d/1N1bOcq64fJctsVdcV80N8On3Q1h_BuyG/view?usp=sharing">Link</a>]
+[<a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571978">Link</a>]
 
 [Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*

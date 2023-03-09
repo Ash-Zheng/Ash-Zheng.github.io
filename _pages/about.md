@@ -26,7 +26,8 @@ Below are some of his recent projects:
 
 News
 ======
-+ [06/22/21] Our **EL-Rec** paper has been accepted to SC’22.
++ [03/09/23] Our **ECSSD** paper has been accepted to ISCA’23.
++ [06/22/22] Our **EL-Rec** paper has been accepted to SC’22.
 + [06/09/22] Our **Faith** paper has been accepted to USENIX ATC’22.
 
 <br />
@@ -34,6 +35,7 @@ News
 
 Internship
 ======
++ [06/2023-09/2023] Research Intern, Meta AI System Co-design Team, Seattle, WA.
 + [06/2022-09/2022] Research Intern, Pacific Northwest National Laboratory (PNNL).
 + [11/2020-01/2021] Engineering Intern, Tencent.
 
@@ -41,7 +43,9 @@ Internship
 
 Professional Services 
 ======
-+ [11/2022] ECOOP’23 Artifact Evaluation Committee
++ [01/2023] PLDI'23 Artifact Evaluation Committee
++ [01/2023] EuroSys'23 Artifact Evaluation Committee
++ [11/2022] ECOOP'23 Extended Review Committee 
 + [11/2022] PPoPP’23 Artifact Evaluation Committee
 + [10/2022] CGO’23 Artifact Evaluation Committee
 + [07/2022] MICRO’22 Artifact Evaluation Committee 
@@ -52,9 +56,13 @@ Professional Services
 
 Publication 
 ======
+[ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
+*ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*
+[To be appeared]
+
 [SC'2022] **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding.
 *EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
-[<a href="https://drive.google.com/file/d/1N1bOcq64fJctsVdcV80N8On3Q1h_BuyG/view?usp=sharing">Link</a>]
+[<a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571978">Link</a>]
 
 [Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
