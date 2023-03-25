@@ -15,6 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+[OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
+*MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms.*
+[To be appeared]
 
 [ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
 *ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*

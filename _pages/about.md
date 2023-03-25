@@ -26,9 +26,8 @@ Below are some of his recent projects:
 
 News
 ======
++ [03/23/23] Our **MGG** paper has been accepted to OSDI'23.
 + [03/09/23] Our **ECSSD** paper has been accepted to ISCA’23.
-+ [06/22/22] Our **EL-Rec** paper has been accepted to SC’22.
-+ [06/09/22] Our **Faith** paper has been accepted to USENIX ATC’22.
 
 <br />
 
@@ -56,6 +55,11 @@ Professional Services
 
 Publication 
 ======
+[OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
+*MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms.*
+[To be appeared]
+
+
 [ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
 *ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*
 [To be appeared]
