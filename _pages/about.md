@@ -16,18 +16,14 @@ Bio
 ======
 **Zheng Wang** is a 2nd year PhD student at the Department of Computer Science, UC Santa Barbara, starting from 2021. He got his B.E. from the Department of Computer Science, Tongji University. At UCSB, Zheng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng's research interests include high-performance system design and end-to-end optimization for deep learning. 
 
-Below are some of his recent projects:
-* System design for Deep Learning Recommendation Model (DLRM).
-* Neural network verification acceleration.
-* Zero-Knowledge Proofs for Neural Networks.
-
 <br />
 
 
 News
 ======
-+ [03/23/23] Our **MGG** paper has been accepted to OSDI'23.
-+ [03/09/23] Our **ECSSD** paper has been accepted to ISCA’23.
++ [04/2023] Excited to be selected as a finalist of Meta PhD fellowship 2023.
++ [03/2023] Our **MGG** paper has been accepted to OSDI'23.
++ [03/2023] Our **ECSSD** paper has been accepted to ISCA’23.
 
 <br />
 
@@ -79,3 +75,8 @@ Publication
 [AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
 *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
 [<a href="https://arxiv.org/abs/2009.10235">Link</a>]
+
+
+Selected Awards
+======
+[04/2023] 2023 Meta Fellowship Finalist [<a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/">Link</a>]
