@@ -57,3 +57,16 @@ Add file `_includes/analytics-providers/google-analytics.html`:
   gtag('config', 'G-6Q986YVBNW');
 </script>
 ```
+
+Edit _includes/head/custom.html:
+```
+<!-- Google Analytics-->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6Q986YVBNW"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6Q986YVBNW');
+</script>
+```
