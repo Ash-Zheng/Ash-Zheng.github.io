@@ -41,10 +41,10 @@ Professional Services
 + [01/2023] PLDI'23 Artifact Evaluation Committee
 + [01/2023] EuroSys'23 Artifact Evaluation Committee
 + [11/2022] ECOOP'23 Extended Review Committee 
-+ [11/2022] PPoPP’23 Artifact Evaluation Committee
-+ [10/2022] CGO’23 Artifact Evaluation Committee
-+ [07/2022] MICRO’22 Artifact Evaluation Committee 
-+ [06/2022] SIGCOMM’22  Artifact Evaluation Committee Member
++ [11/2022] PPoPP'23 Artifact Evaluation Committee
++ [10/2022] CGO'23 Artifact Evaluation Committee
++ [07/2022] MICRO'22 Artifact Evaluation Committee 
++ [06/2022] SIGCOMM'22  Artifact Evaluation Committee Member
 + [04/2022] Teaching Assistant of CS160 (Translation of Programming Languages) 
 
 <br />
