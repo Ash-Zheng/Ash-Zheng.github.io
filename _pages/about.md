@@ -21,6 +21,7 @@ Bio
 
 News
 ======
++ [04/2023] Our **TC-GNN** paper has been accepted to ATC'23.
 + [04/2023] Excited to be selected as a finalist of Meta PhD fellowship 2023.
 + [03/2023] Our **MGG** paper has been accepted to OSDI'23.
 + [03/2023] Our **ECSSD** paper has been accepted to ISCA’23.
@@ -51,10 +52,13 @@ Professional Services
 
 Publication 
 ======
+[ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
+*TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
+[To be appeared]
+
 [OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
 *MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms.*
 [To be appeared]
-
 
 [ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
 *ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*
