@@ -15,17 +15,22 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+[ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
+*ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
+[To be appeared]
+
 [ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
 [To be appeared]
+[<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
 [OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
-*MGG: Accelerating Graph Neural Networks with Fine-grained intra-kernel Communication-Computation Pipelining on Multi-GPU Platforms.*
-[To be appeared]
+*MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.*
+[<a href="https://www.usenix.org/conference/osdi23/presentation/wang-yuke">Link</a>]
 
 [ISCA'2023] Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Ding, Yuan Xie.
 *ECSSD: Hardware/Data Layout Co-Designed In-Storage-Computing Architecture for Extreme Classification.*
-[To be appeared]
+[<a href="https://dl.acm.org/doi/abs/10.1145/3579371.3589093">Link</a>]
 
 [SC'2022] **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding.
 *EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
