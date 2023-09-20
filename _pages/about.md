@@ -14,8 +14,7 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a 2nd year PhD student at the Department of Computer Science, UC Santa Barbara, starting from 2021. He got his B.E. from the Department of Computer Science, Tongji University. At UCSB, Zheng is working with Prof <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng's research interests include high-performance system design and end-to-end optimization for deep learning. 
-
+**Zheng Wang** is a 3rd-year PhD student at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
 <br />
 
 

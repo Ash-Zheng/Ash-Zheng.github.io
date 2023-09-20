@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zheng Wang"
   avatar           : "self.JPG"
-  bio              : "CS PhD Student @ UCSB"
-  location         : "🏖️Santa Barbara, CA, USA"
+  bio              : "CS PhD Student @ UCSD"
+  location         : "🏖️San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fyluT8gAAAAJ&hl=en"
-  email            : "zheng_wang@ucsb.edu"
+  email            : "zhengwang@ucsd.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
