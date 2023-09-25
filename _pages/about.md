@@ -54,11 +54,11 @@ Publication
 ======
 [ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
-[To be appeared]
+[To Appear]
 
 [ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
-[To be appeared]
+[To Appear]
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
 [OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
