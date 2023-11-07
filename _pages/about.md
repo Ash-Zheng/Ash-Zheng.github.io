@@ -20,6 +20,7 @@ Bio
 
 News
 ======
++ [11/2023] Our **RAP** paper has been accepted to ASPLOS'24.
 + [08/2023] Our **ZENO** paper has been accepted to ASPLOS'24.
 + [04/2023] Our **TC-GNN** paper has been accepted to ATC'23.
 + [04/2023] Excited to be selected as a finalist of Meta PhD fellowship 2023.
@@ -52,6 +53,10 @@ Professional Services
 
 Publication 
 ======
+[ASPLOS'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+*RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
+[To Appear]
+
 [ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
 [To Appear]

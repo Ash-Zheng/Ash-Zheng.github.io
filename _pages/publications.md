@@ -14,6 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+[ASPLOS'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+*RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
+[To Appear]
 
 [ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
