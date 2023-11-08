@@ -34,7 +34,7 @@ Internship
 ======
 + [06/2023-09/2023] Research Intern, Meta AI System SW/HW Co-design Team.
 + [06/2022-09/2022] Research Intern, Pacific Northwest National Laboratory (PNNL).
-+ [11/2020-01/2021] Engineering Intern, Tencent.
++ [11/2020-01/2021] Software Engineering Intern, Tencent.
 
 <br />
 
