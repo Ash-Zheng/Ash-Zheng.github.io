@@ -23,10 +23,6 @@ News
 + [04/2024] Our **OPER** paper has been accepted to USENIX ATC'24.
 + [11/2023] Our **RAP** paper has been accepted to ASPLOS'24.
 + [08/2023] Our **ZENO** paper has been accepted to ASPLOS'24.
-<!-- + [04/2023] Our **TC-GNN** paper has been accepted to ATC'23.
-+ [04/2023] Excited to be selected as a finalist of Meta PhD fellowship 2023.
-+ [03/2023] Our **MGG** paper has been accepted to OSDI'23.
-+ [03/2023] Our **ECSSD** paper has been accepted to ISCA’23. -->
 
 <br />
 
