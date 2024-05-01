@@ -83,7 +83,8 @@ author:
   name             : "Zheng Wang"
   avatar           : "self.JPG"
   bio              : "CS PhD Student @ UCSD"
-  location         : "🏖️San Diego, CA, USA"
+  location         : 
+  ann_location     : "🏖️San Diego, CA, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JQJ9SccAAAAJ&hl=en"
