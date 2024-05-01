@@ -14,17 +14,20 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-[ASPLOS'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+[USENIX ATC'2024] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+*OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
+[To Appear]
+
+[ASPLOS'2024] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
 *RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
-[To Appear]
+[<a href="https://dl.acm.org/doi/10.1145/3620665.3640406">Link</a>]
 
-[ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
+[ASPLOS'2024] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
-[To Appear]
+[<a href="https://dl.acm.org/doi/10.1145/3617232.3624852">Link</a>]
 
-[ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
+[USENIX ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
-[To Appear]
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
 [OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.

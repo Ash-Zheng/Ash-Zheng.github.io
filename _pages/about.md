@@ -20,12 +20,13 @@ Bio
 
 News
 ======
++ [04/2024] Our **OPER** paper has been accepted to USENIX ATC'24.
 + [11/2023] Our **RAP** paper has been accepted to ASPLOS'24.
 + [08/2023] Our **ZENO** paper has been accepted to ASPLOS'24.
-+ [04/2023] Our **TC-GNN** paper has been accepted to ATC'23.
+<!-- + [04/2023] Our **TC-GNN** paper has been accepted to ATC'23.
 + [04/2023] Excited to be selected as a finalist of Meta PhD fellowship 2023.
 + [03/2023] Our **MGG** paper has been accepted to OSDI'23.
-+ [03/2023] Our **ECSSD** paper has been accepted to ISCA’23.
++ [03/2023] Our **ECSSD** paper has been accepted to ISCA’23. -->
 
 <br />
 
@@ -53,17 +54,20 @@ Professional Services
 
 Publication 
 ======
+[USENIX ATC'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+*OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
+[To Appear]
+
 [ASPLOS'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
 *RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
-[To Appear]
+[<a href="https://dl.acm.org/doi/10.1145/3620665.3640406">Link</a>]
 
 [ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
-[To Appear]
+[<a href="https://dl.acm.org/doi/10.1145/3617232.3624852">Link</a>]
 
-[ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
+[USENIX ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
-[To Appear]
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
 [OSDI'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding.
