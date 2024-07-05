@@ -90,6 +90,7 @@ Publication
 *UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
 [<a href="https://arxiv.org/abs/2009.10235">Link</a>]
 
+<br />
 
 Selected Awards
 ======
