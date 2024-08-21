@@ -14,9 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-[USENIX ATC'2024] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+[USENIX ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
-[To Appear]
+[<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>]
 
 [ASPLOS'2024] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
 *RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
