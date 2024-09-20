@@ -14,7 +14,7 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a 3rd-year PhD student at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
+**Zheng Wang** is a 4th-year PhD student at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
 <br />
 
 
@@ -95,4 +95,5 @@ Publication
 
 Selected Awards
 ======
-[04/2023] 2023 Meta Fellowship Finalist [<a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/">Link</a>]
+[04/2023] 2023 Meta Fellowship Finalist 
+<!-- [<a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/">Link</a>] -->
