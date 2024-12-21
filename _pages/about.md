@@ -95,5 +95,5 @@ Publication
 
 Selected Awards
 ======
-[04/2023] 2023 Meta Fellowship Finalist 
+[04/2023] 2023 Meta Fellowship Finalist [<a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/">Link</a>]
 <!-- [<a href="https://research.facebook.com/blog/2023/4/announcing-the-2023-meta-research-phd-fellowship-award-winners/">Link</a>] -->
