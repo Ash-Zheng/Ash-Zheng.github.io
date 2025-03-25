@@ -96,9 +96,6 @@ Publication
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
 [<a href="https://www.usenix.org/system/files/atc22-feng.pdf">Link</a>]
 
-[AAAI'2021] Boyuan Feng, Yuke Wang, **Zheng Wang**, Yufei Ding.
-*UAG: Uncertainty-aware Atten- tion Graph Neural Network for Defending Adversarial Attacks.*
-[<a href="https://arxiv.org/abs/2009.10235">Link</a>]
 
 <br />
 
