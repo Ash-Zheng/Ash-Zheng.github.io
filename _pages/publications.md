@@ -14,6 +14,13 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
+[OSDI'2025] **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding.
+*WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.* 
+[<a href="https://arxiv.org/abs/2503.17924">arXiv</a>]
+
+[MLSys'2025] Zaifeng Pan, Yitong Ding, Yue Guan, **Zheng Wang**, Zhongkai Yu, Xulong Tang, Yida Wang, Yufei Ding. 
+*FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference* (To Appear)
+
 [ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
 [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>]
