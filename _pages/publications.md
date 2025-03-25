@@ -20,8 +20,9 @@ author_profile: true
 **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding. <br>
 [<a href="https://arxiv.org/abs/2503.17924">arXiv</a>]
 
-**(To Appear) [MLSys'2025] FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference.** <br>
+**[MLSys'2025] FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference.** <br>
 Zaifeng Pan, Yitong Ding, Yue Guan, **Zheng Wang**, Zhongkai Yu, Xulong Tang, Yida Wang, Yufei Ding. <br>
+(To Appear)
 
 **[ATC'2024] OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.** <br>
 **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. <br>
@@ -39,7 +40,7 @@ Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. <br>
 Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding. <br>
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
-**[OSDI'2023] MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.** <br>\
+**[OSDI'2023] MGG: Accelerating Graph Neural Networks with Fine-Grained Intra-Kernel Communication-Computation Pipelining on Multi-GPU Platforms.** <br>
 Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Kevin Barker, Yufei Ding. <br>
 [<a href="https://www.usenix.org/conference/osdi23/presentation/wang-yuke">Link</a>]
 
