@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-[USENIX ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
+[ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
 [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>]
 
@@ -26,7 +26,7 @@ author_profile: true
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
 [<a href="https://dl.acm.org/doi/10.1145/3617232.3624852">Link</a>]
 
-[USENIX ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
+[ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
@@ -46,7 +46,7 @@ author_profile: true
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
 [<a href="https://arxiv.org/abs/2206.08482">Link</a>]
 
-[USENIX ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
+[ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
 [<a href="https://www.usenix.org/system/files/atc22-feng.pdf">Link</a>]
 

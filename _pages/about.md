@@ -14,15 +14,16 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a 4th-year PhD student at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
+**Zheng Wang** is a Ph.D. candidate at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
 <br />
 
 
 News
 ======
-+ [04/2024] Our **OPER** paper has been accepted to USENIX ATC'24.
-+ [11/2023] Our **RAP** paper has been accepted to ASPLOS'24.
-+ [08/2023] Our **ZENO** paper has been accepted to ASPLOS'24.
++ [03/2025] Our **WLB-LLM** paper has been accepted to OSDI'25.
++ [02/2025] Our **FastTree** paper has been accepted to MLSys'25.
++ [04/2024] Our **OPER** paper has been accepted to ATC'24.
+
 
 <br />
 
@@ -51,7 +52,15 @@ Professional Services
 
 Publication 
 ======
-[USENIX ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
+[OSDI'2025] **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding.
+*WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.* 
+[<a href="https://arxiv.org/abs/2503.17924">arXiv</a>]
+
+[MLSys'2025] Zaifeng Pan, Yitong Ding, Yue Guan, **Zheng Wang**, Zhongkai Yu, Xulong Tang, Yida Wang, Yufei Ding. 
+*FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference* (To Appear)
+<!-- [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>] -->
+
+[ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
 [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>]
 
@@ -63,7 +72,7 @@ Publication
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
 [<a href="https://dl.acm.org/doi/10.1145/3617232.3624852">Link</a>]
 
-[USENIX ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
+[ATC'2023] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Yufei Ding.
 *TC-GNN: Bridging Sparse GNN Computation and Dense Tensor Cores on GPUs.*
 [<a href="https://www.usenix.org/conference/atc23/presentation/wang-yuke">Link</a>]
 
@@ -83,7 +92,7 @@ Publication
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
 [<a href="https://arxiv.org/abs/2206.08482">Link</a>]
 
-[USENIX ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
+[ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
 [<a href="https://www.usenix.org/system/files/atc22-feng.pdf">Link</a>]
 
