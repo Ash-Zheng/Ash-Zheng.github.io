@@ -14,7 +14,7 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a Ph.D. candidate at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning.
+**Zheng Wang** is a Ph.D. candidate at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning (e.g. Recommendation Models and Large Language Models). 
 <br />
 
 
@@ -64,11 +64,11 @@ Publication
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
 [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>]
 
-[ASPLOS'24] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
+[ASPLOS'2024] **Zheng Wang**, Yuke Wang, Jiaqi Deng, Da Zheng, Ang Li, Yufei Ding. 
 *RAP: Resource-aware Automated GPU Sharing for Multi-GPU Recommendation Model Training and Input Preprocessing.* 
 [<a href="https://dl.acm.org/doi/10.1145/3620665.3640406">Link</a>]
 
-[ASPLOS'24] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
+[ASPLOS'2024] Boyuan Feng, **Zheng Wang**, Yuke Wang, Shu Yang, Yufei Ding. 
 *ZENO: A Type-based Optimization Framework for Zero-Knowledge Neural Network Inference.* 
 [<a href="https://dl.acm.org/doi/10.1145/3617232.3624852">Link</a>]
 
