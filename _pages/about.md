@@ -20,6 +20,7 @@ Bio
 
 News
 ======
++ [04/2025] Our **GMI-DRL** paper has been accepted to ATC'25.
 + [03/2025] Our **WLB-LLM** paper has been accepted to OSDI'25.
 + [02/2025] Our **FastTree** paper has been accepted to MLSys'25.
 + [04/2024] Our **OPER** paper has been accepted to ATC'24.
@@ -52,6 +53,10 @@ Professional Services
 
 Publication 
 ======
+[ATC'25] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
+*GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
+[<a href="https://arxiv.org/abs/2206.08482">arXiv</a>]
+
 [OSDI'2025] **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding.
 *WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.* 
 [<a href="https://arxiv.org/abs/2503.17924">arXiv</a>]
@@ -88,14 +93,9 @@ Publication
 *EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.*
 [<a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571978">Link</a>]
 
-[Preprint] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
-*GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
-[<a href="https://arxiv.org/abs/2206.08482">Link</a>]
-
 [ATC'2022] Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. 
 *Faith: An Efficient Framework for Transformer Verification on GPUs.*
 [<a href="https://www.usenix.org/system/files/atc22-feng.pdf">Link</a>]
-
 
 <br />
 

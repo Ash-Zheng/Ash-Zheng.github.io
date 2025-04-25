@@ -14,7 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+**[ATC'2025] GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.** <br>
+Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding. <br>
+[<a href="https://arxiv.org/abs/2206.08482">arXiv</a>] 
 
 **[OSDI'2025] WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.** <br>
 **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding. <br>
@@ -51,10 +53,6 @@ Siqi Li, Fengbin Tu, Liu Liu, Jilan Lin, **Zheng Wang**, Yangwook Kang, Yufei Di
 **[SC'2022] EL-Rec: Efficient Large-scale Recommendation Model Training via Tensor-train Embedding Table.** <br>
 **Zheng Wang**, Yuke Wang, Boyuan Feng, Dheevatsa Mudigere, Bharath Muthiah, Yufei Ding. <br>
 [<a href="https://dl.acm.org/doi/abs/10.5555/3571885.3571978">Link</a>]
-
-**[Preprint] GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.** <br>
-Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding. <br>
-[<a href="https://arxiv.org/abs/2206.08482">Link</a>] 
 
 **[ATC'2022] Faith: An Efficient Framework for Transformer Verification on GPUs.** <br>
 Boyuan Feng, Tianqi Tang, Yuke Wang, Zhaodong Chen, **Zheng Wang**, Shu Yang, Yuan Xie, Yufei Ding. <br>
