@@ -55,15 +55,15 @@ Publication
 ======
 [ATC'25] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
-[<a href="https://arxiv.org/abs/2206.08482">arXiv</a>]
+[<a href="https://www.usenix.org/system/files/atc25-wang-yuke.pdf">Link</a>] 
 
 [OSDI'2025] **Zheng Wang**, Anna Cai, Xinfeng Xie, Zaifeng Pan, Yue Guan, Weiwei Chu, Jie Wang, Shikai Li, Jianyu Huang, Chris Cai, Yuchen Hao, Yufei Ding.
 *WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.* 
-[<a href="https://arxiv.org/abs/2503.17924">arXiv</a>]
+[<a href="https://www.usenix.org/conference/osdi25/presentation/wang-zheng">Link</a>]
 
 [MLSys'2025] Zaifeng Pan, Yitong Ding, Yue Guan, **Zheng Wang**, Zhongkai Yu, Xulong Tang, Yida Wang, Yufei Ding. 
 *FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference* (To Appear)
-<!-- [<a href="https://www.usenix.org/conference/atc24/presentation/wang">Link</a>] -->
+[<a href="https://mlsys.org/virtual/2025/poster/3278">Link</a>] 
 
 [ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
 *OPER: Optimality-Guided Embedding Table Parallelization for Large-scale Recommendation Model.* 
