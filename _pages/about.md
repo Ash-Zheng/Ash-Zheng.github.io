@@ -31,7 +31,7 @@ News
 
 Internship
 ======
-+ [06/2025-09/2025] SuperIntelligence Lab Infra Team, Meta.
++ [06/2025-09/2025] Super-Intelligence Lab Infra Team, Meta.
 + [06/2024-09/2024] AI & System Co-design Team, Meta.
 + [06/2023-09/2023] AI & System Co-design Team, Meta.
 + [06/2022-09/2022] Research Intern, Pacific Northwest National Laboratory (PNNL).
