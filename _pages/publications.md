@@ -15,6 +15,10 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+**[NeurIPS'2025] Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding.** <br>
+Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, **Zheng Wang**, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng. <br>
+(to appear)
+
 **[ATC'2025] GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.** <br>
 Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding. <br>
 [<a href="https://www.usenix.org/system/files/atc25-wang-yuke.pdf">Link</a>] 

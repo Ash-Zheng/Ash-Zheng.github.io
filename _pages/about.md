@@ -20,12 +20,10 @@ Bio
 
 News
 ======
++ [09/2025] Our **Yggdrasil** paper has been accepted to NeurIPS'25.
 + [04/2025] Our **GMI-DRL** paper has been accepted to ATC'25.
 + [03/2025] Our **WLB-LLM** paper has been accepted to OSDI'25.
 + [02/2025] Our **FastTree** paper has been accepted to MLSys'25.
-+ [04/2024] Our **OPER** paper has been accepted to ATC'24.
-
-
 <br />
 
 
@@ -36,11 +34,13 @@ Internship
 + [06/2023-09/2023] AI & System Co-design Team, Meta.
 + [06/2022-09/2022] Research Intern, Pacific Northwest National Laboratory (PNNL).
 + [11/2020-01/2021] Software Engineering Intern, Tencent.
-
 <br />
 
 Publication 
 ======
+[NeurIPS'25] Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, **Zheng Wang**, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng. 
+*Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding.* (to appear)
+
 [ATC'25] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
 [<a href="https://www.usenix.org/system/files/atc25-wang-yuke.pdf">Link</a>] 
@@ -50,7 +50,7 @@ Publication
 [<a href="https://www.usenix.org/conference/osdi25/presentation/wang-zheng">Link</a>]
 
 [MLSys'2025] Zaifeng Pan, Yitong Ding, Yue Guan, **Zheng Wang**, Zhongkai Yu, Xulong Tang, Yida Wang, Yufei Ding. 
-*FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference* (To Appear)
+*FastTree: Optimizing Attention Kernel and Runtime for Tree-Structured LLM Inference*
 [<a href="https://mlsys.org/virtual/2025/poster/3278">Link</a>] 
 
 [ATC'2024] **Zheng Wang**, Yuke Wang, Boyuan Feng, Guyue Huang, Dheevatsa Mudigere, Bharath Muthiah, Ang Li, Yufei Ding. 
