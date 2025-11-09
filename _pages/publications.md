@@ -20,7 +20,7 @@ Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, **Zheng Wang**, Zi
 (to appear)
 
 **[ATC'2025] GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.** <br>
-Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding. <br>
+Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Tong Geng, Ang Li, Yufei Ding. <br>
 [<a href="https://www.usenix.org/system/files/atc25-wang-yuke.pdf">Link</a>] 
 
 **[OSDI'2025] WLB-LLM: Workload-Balanced 4D Parallelism for Large Language Model Training.** <br>

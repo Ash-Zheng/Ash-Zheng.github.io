@@ -41,7 +41,7 @@ Publication
 [NeurIPS'25] Yue Guan, Changming Yu, Shihan Fang, Weiming Hu, Zaifeng Pan, **Zheng Wang**, Zihan Liu, Yangjie Zhou, Yufei Ding, Minyi Guo, Jingwen Leng. 
 *Yggdrasil: Bridging Dynamic Speculation and Static Runtime for Latency-Optimal Tree-Based LLM Decoding.* (to appear)
 
-[ATC'25] Yuke Wang, Boyuan Feng, **Zheng Wang**, Tong Geng, Ang Li, Yufei Ding.
+[ATC'25] Yuke Wang, Boyuan Feng, **Zheng Wang**, Guyue Huang, Tong Geng, Ang Li, Yufei Ding.
 *GMI-DRL: Empowering Multi-GPU Deep Reinforcement Learning with GPU Spatial Multiplexing.*
 [<a href="https://www.usenix.org/system/files/atc25-wang-yuke.pdf">Link</a>] 
 
