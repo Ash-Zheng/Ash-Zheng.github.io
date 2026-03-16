@@ -14,7 +14,7 @@ redirect_from:
 
 Bio
 ======
-**Zheng Wang** is a Ph.D. candidate at UC San Diego, advised by Prof. <a href="https://sites.cs.ucsb.edu/~yufeiding/">Yufei Ding</a>. Zheng began his PhD studies at UCSB in 2021 and moved to UCSD in the fall of 2023. His research interests include high-performance system design and end-to-end optimization for deep learning (e.g. Recommendation Models and Large Language Models). 
+**Zheng Wang** is a Research Scientist at Meta Superintelligence Labs, Kernel & Optimization team. He received his Ph.D. in computer science from UC San Diego, where he was advised by Prof. <a href="https://yufeiding.ucsd.edu/people/prof-yufei-ding">Yufei Ding</a>. His research focuses on high-performance system design and end-to-end optimization for large-scale deep learning, specifically Large Language Models (LLMs) and Recommendation Models (DLRMs).
 <br />
 
 
